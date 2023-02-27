@@ -1,4 +1,4 @@
-This is the source for my personal website [mahmad](https://mahmad.me).
+This is the source for my personal website
 
 ## Built with
 - [Typescript](https://www.typescriptlang.org/)
